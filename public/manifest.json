@@ -1,0 +1,8 @@
+{
+  "name": "Galovićev Forum",
+  "short_name": "GalovićeF",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4FD1C5",
+  "theme_color": "#38B2AC"
+}
